@@ -1,0 +1,498 @@
+@font-face{
+    font-family: TT Interphases Pro Trl Variable;
+    src: url(/text/TT\ Interphases\ Pro\ Trial\ Variable.ttf);
+}
+
+    
+body{
+    background: url(/photo/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.border-header{
+    border: 1px solid   ;
+    color: white;
+    border-radius: 10px;
+    width: 170px;
+    height: 40px;
+}
+.text-color{
+    color: white;
+    text-decoration: none;
+}
+.text-color:hover{
+    color: grey;
+}
+.size-img-teltphone{
+    width: 28px;
+    height: 28.11
+}
+.indentation{
+    margin: 10px;
+}
+.r1{
+    height: 25px;
+}
+
+.text-effecient-exel{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #FFF;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.txt-effecient-exel1{
+    display: flex;
+    /* width: 1064px; */
+    height: 73px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #FFF;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.df{
+    background: url(/photo/fjf.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.fd{
+    background: url(/photo/line.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.mar{
+    /* margin-left: 160px; */
+}
+.button-effecient-exel{
+    border: none;
+    background-color: #58DAFF;
+    border-radius: 10px;
+    color: white;
+    font-size: 22px;
+
+}
+.button-effecient-exel:hover{
+    background-color: #58dbffa8;
+    color: rgba(0, 0, 0, 0.668);
+}
+
+.text12{
+    font-size: 45px;
+}
+.text13{
+    font-size: 43px;
+}
+.m0{
+    padding: 0px;
+}
+.img-size{
+    width: 200px;
+    height: 200px;
+    flex-shrink: 0;
+}
+.div1{
+    width: min-content;
+}
+.line-1{
+    position: absolute;
+    left: 3%;
+    top: 0;
+    height: 800px;
+
+}
+.line-2{
+    position: absolute;
+    left: 21%;
+    top: 0;
+    height: 800px;
+}
+.line-3{
+    position: absolute;
+    left: 41%;
+    top: 0;
+    height: 800px;
+}
+.sizw{
+    width: 100%;
+}
+.line-4{
+    position: absolute;
+    left: 61%;
+    top: 0;
+    height: 800px;
+}
+.line-5{
+    position: absolute;
+    left: 83%;
+    top: 0;
+    height: 800px;
+}
+.dot{
+    position: absolute;
+    left: 65%;
+}
+.text-h1{
+    height: 100%;
+    color: #FFF;
+    text-align: center;
+    font-size:px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+}
+.photo-zachem{
+    width: 4%;
+    flex-shrink: 0;
+}
+.bg-zachem{
+    background-image: url(/photo/bg-zachem.svg);
+}
+.gor{
+    position: absolute;
+}
+
+.bg3{
+    background: url(/photo/OBJECTS1.png);
+    background-repeat: no-repeat;
+    background-size:90% 100%;  
+}
+.fon-col{
+    border-radius: 25px;
+    border: 1px solid rgba(255, 255, 255, 0.50);
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(20px);
+
+}
+.decor-text-mini{
+    width: 100%;
+    color: #FFF;
+    font-family: TT Interphases Pro Mono Trl;
+    font-size: 17px;
+    font-weight: 400;
+    text-align: left;
+}
+.decor-text-higt{
+    display: flex;
+    width: 124px;
+    height: 114px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: TT Interphases Pro Trl Variable;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+    text-align: left;
+}
+.decor-text-sred{
+    display: flex;
+    width: 256px;
+    height: 49px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: TT Interphases Pro Trl Variable;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+}
+.pyr{
+    margin-top: 100px;
+}
+.bg-white{
+    background: #FFF;
+}
+.text-osobenosti{
+    color: #000;
+    font-family: TT Interphases Pro Trl Variable;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    width:340px;
+    height: 92px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+}
+.acardeon-border{
+    border-radius: 25px;
+    border: 1px solid rgba(255, 255, 255, 0.50);
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(20px);
+    color: #FFF;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    
+}
+.border-none{
+    border: none;
+     background: rgba(255, 255, 255, 0);
+    color: #FFF;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 98%;
+    justify-content: space-between;
+    display: flex;
+}
+.mini-text-accardeon{
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.img-plus-size{
+    width: 3%;
+}
+.line-bg-acard{
+    background: url(/photo/line-acard.svg);
+    width: 100%;
+}
+.text-pedagog{
+    width: 100%;
+    color: #FFF;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    text-align: left;
+    width: 
+}
+.text-name{
+    color: #FFF;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.img-size-skem{
+    width: 80%;
+}
+.asdj{
+    border-radius: 1172px;
+    background: radial-gradient(127.17% 127.17% at 50% 21.74%, rgba(249, 249, 249, 0.75) 0%, rgba(224, 224, 224, 0.00) 61.46%);
+    mix-blend-mode: color-dodge;
+    filter: blur(22.5px);
+    flex-shrink: 0;
+    
+}
+.svet{
+    background: url(/photo/svet1.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.border-zayavka{
+    border-radius: 25px;
+    border: 1px solid rgba(255, 255, 255, 0.50);
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(20px);
+
+}
+.button-zatavka{
+    border-radius: 25px;
+    border: 1px solid;
+    background: linear-gradient(271deg, #3E97FF 0%, #00D1FF 99.88%);
+    width: 87%;
+    height: 60%;
+}
+.button-zatavka:hover{
+    background: linear-gradient(#00D1FF 99.88%,#3E97FF 0%) ;
+}
+.text-blagodarnost-mini{
+    color: #FFF;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+
+}
+.text-blagodarnost-big{
+    color: #FFF;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    display: flex;
+    width: 300px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.border-blagodarnost-big{
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.50);
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(20px);
+    flex-shrink: 0;
+    width: 87%;
+    height: 60%;
+}
+.he{
+    height: 30%;
+    width: 30%;
+}
+.galochaca-input{
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.50);
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(20px);
+    width: 20px;
+    height: 37px;
+    flex-shrink: 0;
+}
+.dskofosdjf{
+    background-color: red;
+    color: white;
+}
+.text-input{
+    color: white;
+
+}
+
+button.collapsed.img-plus-size{
+    background-image:url("")
+}
+
+.accordion-button{
+    background: NONE !important;
+    box-shadow: none !important;
+}
+
+.accordion-button:not(.collapsed)::after{
+    background-image: url("/photo/minus.png") !important;
+    height: 5px !important;
+    align-items: center !important;
+    /* transform: none !important; */
+}
+
+.accordion-button::after{
+    background-image: url("/photo/plus.png") !important;
+    height: 20px !important;
+    align-items: center !important;
+    /* transform: none !important; */
+}
+
+.pedagog-size-img{
+    height: 50%;
+    width: 45%;
+}
+.obrazovanie-size-img{
+    height: 50%;
+    width: 45%;
+}
+.color-accar{
+    color: white !important;
+    font-size: 25px !important;
+}
+.map{
+    border-radius: 20px;
+    border:white;
+    height: 550px;
+    width:1300px;
+    background-color: black; 
+    filter: brightness(35%);
+    -ms-filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+    -moz-filter: grayscale(1);
+    -o-filter: grayscale(1);
+    filter: invert(100%);
+    -ms-filter: invert(100%);
+    -webkit-filter: invert(100%);
+    -moz-filter: invert(100%);
+    -o-filter: invert(100%);
+}
+.img-adap-scobka{
+    width:5%;
+    
+}
+
+
+.df-mobile{
+    background: url(/photo/fjf.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.fd-mobile{
+    background: url(/photo/line.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+@media (min-width: 300px) and (max-width: 1024px){
+    .mobile-size{
+        width: 100%;
+    }
+    .fd{
+        background: none;
+    }
+    .df{
+        background: none;
+    }
+    .df-mobile{
+        background: url(/photo/fjf.svg);
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+    .fd-mobile{
+        background: url(/photo/line.svg);
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+    .bg3{
+        background: none;
+    }
+    .border-blagodarnost-big{
+       margin-top:15px;
+    }
+    .ret{
+        display: flex;
+        justify-content: center;
+    }
+}
+@media (min-width: 1024px) and (max-width: 4000px){
+    .df-mobile{
+       background: none;
+    }
+    .fd-mobile{
+        background: none;
+    }
+    
+}
